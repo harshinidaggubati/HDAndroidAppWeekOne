@@ -24,6 +24,7 @@
         android:id="@+id/button"
         android:layout_width="320dp"
         android:layout_height="70dp"
+        android:backgroundTint="#00BCD4"
         android:text="ABOUT ME"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
